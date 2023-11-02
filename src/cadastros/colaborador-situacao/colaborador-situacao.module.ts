@@ -4,7 +4,7 @@ Description: Module relacionado à tabela [COLABORADOR_SITUACAO]
                                                                                 
 The MIT License                                                                 
                                                                                 
-Copyright: Copyright (C) 2020 Global Software e Tecnologia                                          
+Copyright: Copyright (C) 2023 Global Software e Tecnologia                                          
                                                                                 
 Permission is hereby granted, free of charge, to any person                     
 obtaining a copy of this software and associated documentation                  

@@ -4,7 +4,7 @@ Description: Lib T2Ti Sped Contábil - ECD
 
 The MIT License
 
-Copyright: Copyright (C) 2020 Global Software e Tecnologia
+Copyright: Copyright (C) 2023 Global Software e Tecnologia
 
  
  * Permission is hereby granted, free of charge, to any person obtaining a copy
